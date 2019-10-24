@@ -8,7 +8,7 @@ import threading
 
 
 n = 10000
-m = 10000
+m = 100000
 k_0 = 9
 k = k_0 ** 2
 chi = 101.879
